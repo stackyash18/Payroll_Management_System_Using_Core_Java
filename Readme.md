@@ -87,6 +87,3 @@ This project is part of my journey toward developing strong programming fundamen
 
 Built as part of my continuous learning journey in Java programming, Object-Oriented Programming, and software development fundamentals.
 
----
-
-If you find this project useful, feel free to explore the repository.
